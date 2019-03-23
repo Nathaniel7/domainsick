@@ -1,2 +1,0 @@
-# domainsick
-R
